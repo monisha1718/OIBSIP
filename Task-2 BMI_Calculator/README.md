@@ -74,6 +74,6 @@ Category: Normal weight
 
 ## 👩‍💻 Author
 
-**Monisha Moni**
+** Monisha **
 
 ---
